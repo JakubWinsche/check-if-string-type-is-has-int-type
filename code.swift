@@ -16,4 +16,4 @@ func testForString(string: Any) -> Bool{
     return isString
 }
 
-testForString(string: "sdwdad")
+// To check a variable type in testForString(VariableOfYourChoice) 
